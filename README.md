@@ -6,7 +6,7 @@ A modern personal portfolio built with **React**, **Vite**, **Tailwind CSS**, an
 
 ## 🌐 Live Demo
 
-portfolio-yoganand-cmds-projects.vercel.app
+[portfolio-yoganand-cmds-projects.vercel.app](https://portfolio-yoganand-cmds-projects.vercel.app/#home)
 
 ## 📸 Preview
 
