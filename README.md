@@ -1,6 +1,5 @@
 # 🎈 Pavuluri Yoganand Portfolio
 
-> "Every developer has a story. This is mine — written in code, tested in hackathons, and still being edited."
 
 A modern personal portfolio built with **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**, inspired by the atmosphere of Stephen King's *IT* and the town of Derry.
 
@@ -152,5 +151,5 @@ This project is open source and available under the MIT License.
 
 ⭐ If you like this project, consider giving it a star.
 
-Pavuluri Yoganand
+ Pavuluri Yoganand
 
