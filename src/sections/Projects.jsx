@@ -36,7 +36,7 @@ const projects = [
     description:
       'Multi-role venue management system serving Admins, Vendors, and End Users. Built role-based dashboards, REST API integration with Swagger documentation, and AI-assisted search and recommendation features.',
     tech: ['React.js', 'JavaScript', 'REST APIs', 'Swagger'],
-    github: 'https://github.com/sirimallesrikar8-tech/Startup-Frontend',
+    github: 'https://github.com/yoganand-cmd/Venue-Booking-Platform',
     demo: null,
     highlight: false,
   },
